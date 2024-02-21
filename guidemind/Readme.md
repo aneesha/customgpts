@@ -31,7 +31,7 @@ The Pedagogical moves are taken from the MathDial paper presented at EMNLP 2023 
 ## Citing this Prompt
 If you re-use in an academic publication please cite as:
 
-Bakharia, A. (2024). Custom GPT Prompts - Math Worksheet Creator. GitHub. https://github.com/aneesha/customgpts
+Bakharia, A. (2024). Custom GPT Prompts - Guide Mind Any Subject Tutor. GitHub. https://github.com/aneesha/customgpts
 
 
 ## References
