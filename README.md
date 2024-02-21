@@ -4,9 +4,9 @@
 - Each Custom GPT has its own folder with a Readme, describing the tools, settings and additional files uploaded.
 
 The Custom GPTs include:
-- Guidemind Any Subject Tutor
+- **Guidemind Any Subject Tutor:**
 A chatbot tutor that uses pedagogical moves and can tutor for any subject. 
-- Designed Thinkers
+- **Designed Thinkers:**
 Fuzzy instruction following, spawning of multiple persona's to assist with solving solutions using Design Thinking. Also asks questions and really involves the user in the process.
-- Math Worksheet Creator
-Asks questions to determine the target student audience then created questions and full teacher solutions, checks everything using Python code and exports to Word or Latex. 
+- **Math Worksheet Creator:**
+Asks questions to determine the target student audience then creates questions and full teacher solutions, checks everything using Python code and exports to Word or Latex. 
